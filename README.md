@@ -1,14 +1,4 @@
-<h1 align="center">CHALLANGE LITER ALURA</h1>
-<img align="center" src="/README_FILES/ONE.png" alt="Logo personalizada one">
 
-<p align="center">
-    <a href="#sobre">Sobre</a> |
-    <a href="#funcionalidades">Funcionalidades</a> |
-    <a href="#tecnologias">Tecnologias</a> |
-    <a href="#executar">Como Executar</a> |
-    <a href="#extras-sugeridos">Extras sugeridos</a> |
-    <a href="#resultado">Resultado final</a>
-</p>
 
 ### Sobre
 Este projeto foi desenvolvido como parte do desafio proposto no programa ONE - Oracle Next Education,programa de ensino em Alura/Oracle. O Desafio LiterAlura consiste em um sistema de gerenciamento de livros e autores, onde os usuários podem buscar informações sobre livros, autores, idiomas e realizar diferentes consultas relacionadas a esses dados usando a API gutendex.
@@ -64,10 +54,6 @@ CONCLUÍDO
 CONCLUÍDO
 - Listar autores com outras consultas: Aqui deixamos como sugestão implementar outras consultas com os atributos de ano de nascimento e falecimento dos autores. Sinta-se livre para explorar e implementar essas características adicionais.<br>
 OPTEI POR NÃO FAZER
-
-## Resultado
-
-<img src="README_FILES/resultado.gif">
 
 ## Contribuição
 
